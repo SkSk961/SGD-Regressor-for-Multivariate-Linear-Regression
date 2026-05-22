@@ -1,4 +1,4 @@
-# SGD-Regressor-for-Multivariate-Linear-Regression
+**# SGD-Regressor-for-Multivariate-Linear-Regression
 
 ## AIM:
 To write a program to predict the price of the house and number of occupants in the house with SGD regressor.
@@ -17,8 +17,8 @@ To write a program to predict the price of the house and number of occupants in 
 ```
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: R . NITHISH AADITIYAA
-RegisterNumber: 212225040287
+Developed by:sharankumar G
+RegisterNumber: 2122200055
 
 import numpy as np
 import pandas as pd
@@ -69,3 +69,4 @@ print("\nPredictions:\n",Y_pred[:5])
 
 ## Result:
 Thus the program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor is written and verified using python programming.
+**
